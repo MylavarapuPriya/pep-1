@@ -2,6 +2,7 @@ class Task1
 {
 public static void main(String[] args)
 {
-System.out.println("Welcome to EPAM PEP");
+System.out.println("Hello EPAM ");
+System.out.println("Hello EPAM after modifying");
 }
 }
